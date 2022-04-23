@@ -3,8 +3,9 @@
 </h1>
 <br></br>
 <div>
-  <p>
-    Estou no 7º semestre de eng. bio. e me apaixonei pela área de programação aplicada a saúde <img src="">
+  <p align="center">
+    <img src="estetoscópio" width="20px"> Estou no 7º semestre de eng. bio. e me apaixonei pela área de programação aplicada a saúde.<br></br>
+    Este espaço foi criado com o intuito de compartilhar meu hobby com toda a comunidade dev 
   </p>
 </div>
 <br></br>
