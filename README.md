@@ -4,6 +4,6 @@
 <br></br>
 <div>
   <img  align = "left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=JhanisYPS&theme=panda&show_icons=true"/>
-  <img  align = "right" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=JhanisYPS&theme=panda&show_icons=true"/>
+  <img  align = "right" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhanisYPS&theme=panda&show_icons=true"/>
 </div>
 
