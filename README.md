@@ -3,12 +3,14 @@
 </h1>
 <br></br>
 <div>
-
+  <p>
+    Estou no 7º semestre de eng. bio. e me apaixonei pela área de programação aplicada a saúde <img src="">
+  </p>
 </div>
 <br></br>
 <div>
   <h2 align="center">
-    Git Scores <
+    <img src="gatinho.gif" alt="gatinho dançando" width="65px"/>Git Scores<img src="gatinho.gif" alt="gatinho dançando" width="65px"/>
   </h2>
   <img  align = "left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=JhanisYPS&theme=panda&show_icons=true"/>
   <img  align = "right" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhanisYPS&theme=panda&show_icons=true"/>
