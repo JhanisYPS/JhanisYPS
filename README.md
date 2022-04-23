@@ -1,3 +1,7 @@
 <h1 align="center">
-  Olá,<img src="https://i.pinimg.com/originals/f9/d9/6a/f9d96abe2b6966879a2bf61fc3b0c96c.gif"/>
+  Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="patinha.gif" alt="patinha de gato" width="70px">/>!!
 </h1>
+<br></br>
+<div>
+  <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=JhanisYPS&theme=panda&show_icons=true"/>
+</div>
