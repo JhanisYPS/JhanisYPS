@@ -5,7 +5,7 @@
 <div>
   <p align="center">
     <img src="bubble.gif" width="30px"> Sou recém formada em Engenharia Biomédica e me apaixonei pela área de programação aplicada a saúde.<br></br>
-    <img src="diamond.gif" width="25px">Este espaço foi criado com o intuito de compartilhar meu hobby com toda a comunidade dev<img src="diamond.gif" width="25px">
+    <img src="diamond.gif" width="25px">Este espaço foi criado com o intuito de compartilhar meus projetos com toda a comunidade dev<img src="diamond.gif" width="25px">
   </p>
 </div>
 <br></br>
