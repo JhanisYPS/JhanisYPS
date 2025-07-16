@@ -1,9 +1,9 @@
-<h1 align="center">Olá, devs! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU1aWIybnZzbmZxdHh1NnZqZTZldXZhdnJvbzhjOTk2aXdlZXVyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTbZzCkRQCEJa/giphy.gif" alt="patinha" width="40"/></h1>
+<h1 align="center">Janaina Yasmin Paula Santos</h1>
 
 <p align="center">
-  <strong>Janaina Yasmin Paula Santos</strong>  
+  Engenheira Biomédica • Dev Pleno na CI&T • Pós-Tech em Full Stack na FIAP  
   <br>
-  Engenheira Biomédica • Dev Pleno na CI&T • Fluig Certified • Automação com TOTVS
+  Automação com TOTVS • Gen AI • Certificada em Fluig
 </p>
 
 ---
@@ -11,36 +11,35 @@
 ## 👩‍💻 Sobre mim
 
 - 🎓 Formada em **Engenharia Biomédica** pela PUC-SP (2019–2023).  
-- 💼 Atualmente na **Arcadis**, automatizando e otimizando processos com o sistema **TOTVS** e a plataforma **Fluig**, com duas certificações conquistadas no evento **Universo TOTVS**.  
-- 👩‍💻 **Desenvolvedora Python nível pleno (Mid-Level)** na **CI&T**, com foco em **Gen AI** e desenvolvimento de **assistentes conversacionais inteligentes**.  
-- 🧾 Experiência anterior na **Siemens Healthineers**, com automações financeiras e uso de SAP.  
-- 💬 Compartilhei minha jornada de aprendizado em Python na série “**Desafio Profissional em T**” no LinkedIn.  
+- 📚 Cursando **Pós-Tech em Full Stack Development** pela FIAP.  
+- 💼 Atualmente na **Arcadis**, automatizando processos e relatórios com **TOTVS** e **Fluig**, com duas certificações obtidas no evento **Universo TOTVS**.  
+- 👩‍💻 **Desenvolvedora Python Pleno** na **CI&T**, atuando com **Gen AI** e criação de **assistentes conversacionais com LLMs**.  
+- 🧾 Experiência anterior na **Siemens Healthineers**, com foco em SAP e automações financeiras.  
+- 💬 Compartilhei minha trajetória com Python na série “**Desafio Profissional em T**” no LinkedIn.  
 
 ---
 
-## 💡 Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
-| Linguagens      | Frameworks / Ferramentas       | Conceitos & Plataformas     |
+| Linguagens      | Frameworks / Ferramentas       | Plataformas e Conceitos     |
 | --------------- | ------------------------------ | --------------------------- |
-| Python, C++, JS | FastAPI, Node.js, Angular      | TOTVS, Fluig, SAP VBA       |
-| SQL, ABAP       | Docker, Git, GitHub Actions    | Snowflake, Power Automate   |
-| HTML/CSS        | OpenAI API, LangChain          | LLMs, APIs, Automação       |
+| Python, C++, JS | FastAPI, Node.js, Angular      | TOTVS, SAP (VBA), Fluig     |
+| SQL, ABAP       | Docker, Git, GitHub Actions    | LLMs, Power Automate, APIs  |
+| HTML/CSS        | OpenAI API, LangChain          | Automação, IA Generativa    |
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💼 Projetos em Destaque
 
-### 🤖 Assistentes com Gen AI
-- Desenvolvimento de chats inteligentes com **OpenAI API**, **LangChain** e **FastAPI**.
-- Aplicações corporativas voltadas para produtividade e atendimento interno.
+### Chatbots com Gen AI
+- Desenvolvimento de assistentes com **OpenAI API**, **LangChain** e **FastAPI**.
 
-### 💼 Automação com TOTVS + Fluig
-- Criação de scripts e fluxos automatizados para rotinas administrativas e financeiras.
-- Certificada em **Fluig** pelo **Universo TOTVS 2025**.
+### Automação com TOTVS + Fluig
+- Criação de rotinas automatizadas para processos administrativos e relatórios financeiros.
+- Duas certificações obtidas no **Universo TOTVS 2025**.
 
-### 📈 Calculadora de Investimentos com Ajuste por Inflação
-- API para projeção financeira considerando aportes mensais e inflação.
-- Stack: Python, FastAPI, lógica de juros compostos e Docker.
+### Calculadora de Investimentos
+- API em FastAPI que simula projeções financeiras com inflação e juros compostos.
 
 ---
 
@@ -53,11 +52,12 @@
 
 ---
 
-## 📚 Formação e Certificações
+## 🎓 Formação e Certificações
 
 - **Engenharia Biomédica** – Pontifícia Universidade Católica de São Paulo (PUC-SP)  
+- **Pós-Tech Full Stack Development** – FIAP *(em andamento)*  
 - Formação em **Python, Data Science e Gen AI** – Alura  
-- **2 Certificações em Fluig** – Universo TOTVS 2025  
+- **2 Certificações Fluig** – Universo TOTVS 2025  
 - Em andamento: **AWS Certified Cloud Practitioner**
 
 ---
@@ -65,7 +65,7 @@
 ## 🌐 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/janainayasmindepaulasantos/)
-- 📫 Email: janaina.santos@outlook.com*
+- 📫 Email: janaina.santos@outlook.com
 - 💻 Em breve: Portfólio pessoal
 
 ---
